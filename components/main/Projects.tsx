@@ -20,7 +20,7 @@ const Projects = () => {
                     type="Web App"
                 />
                 <ProjectCard
-                    src="/Itera.jfif"
+                    src="/Itera.png"
                     title="Itera"
                     description="Native Android productivity app for students. Manage subjects, tasks, attendance and grades with reminders, built with Kotlin, Jetpack Compose & Clean Architecture."
                     tags={["Kotlin", "Jetpack Compose", "Room", "MVVM"]}
@@ -28,7 +28,7 @@ const Projects = () => {
                     type="Android App"
                 />
                 <ProjectCard
-                    src="/Zenqor.jfif"
+                    src="/Zenqor.png"
                     title="Zenqor"
                     description="Sales intelligence platform with admin dashboard, product catalog, real-time analytics and multi-role auth. Built with Next.js 15, Zustand & TanStack Query."
                     tags={["Next.js", "TypeScript", "Zustand", "Recharts"]}
